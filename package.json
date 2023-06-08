@@ -1,0 +1,28 @@
+{
+  "name": "a11y-kit",
+  "version": "0.0.1",
+  "description": "A kit for accessible web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humayunkabir/a11y-kit.git"
+  },
+  "keywords": [
+    "a11y",
+    "accessibility",
+    "web",
+    "accessibility",
+    "w3c",
+    "w3c",
+    "accessibility"
+  ],
+  "author": "Humayun Kabir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/humayunkabir/a11y-kit/issues"
+  },
+  "homepage": "https://github.com/humayunkabir/a11y-kit#readme"
+}
